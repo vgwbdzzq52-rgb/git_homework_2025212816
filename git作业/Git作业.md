@@ -1,4 +1,4 @@
 # Level 0
-![[Pasted image 20251120144424.png]]
+![](Pasted%20image%2020251120144424.png)
 
 # Level 1
