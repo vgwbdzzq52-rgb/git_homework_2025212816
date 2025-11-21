@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "856422edafb2f38b",
@@ -185,11 +186,19 @@
   },
   "active": "a8b43199ea10016d",
   "lastOpenFiles": [
+    "assets/images/Git作业-10.png",
+    "assets/images/Git作业-9.png",
+    "assets/images/Git作业-8.png",
+    "assets/images/Git作业-7.png",
+    "assets/images/Git作业-6.png",
+    "assets/images/Git作业-5.png",
+    "assets/images/Git作业-4.png",
+    "assets/images/Git作业-3.png",
+    "assets/images/Git作业-2.png",
+    "assets/images/Git作业-1.png",
     "assets/images/Git作业.png",
     "assets/images",
     "assets",
-    "Pasted image 20251121075609.png",
-    "Git作业.md",
-    "Pasted image 20251120144424.png"
+    "Git作业.md"
   ]
 }
